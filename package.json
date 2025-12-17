@@ -1,0 +1,23 @@
+{
+  "name": "playwright-pom-exercise1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ornops/playwright-POM-exercise1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ornops/playwright-POM-exercise1/issues"
+  },
+  "homepage": "https://github.com/ornops/playwright-POM-exercise1#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^25.0.3"
+  }
+}
